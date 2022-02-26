@@ -5,7 +5,7 @@ public class calc
         int a,b;
         a=20;
         b=30;
-        System.out.println("addition="+(a+b));
+        System.out.println("addition="+(a+b))
 
     }
 }
