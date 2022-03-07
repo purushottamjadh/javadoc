@@ -8,7 +8,12 @@ public class calc
         System.out.println("addition="+(a+b));
              System.out.println("helo.......");
         System.out.println("hello world.......");
+
+        System.out.println("adding new branch......");
+        System.out.println("this is from new branch..");
+
             System.out.println("this is from master branch");
+
 
     }
 }
